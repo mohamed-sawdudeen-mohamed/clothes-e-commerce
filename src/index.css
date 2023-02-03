@@ -2,7 +2,7 @@
 @tailwind components;
 
 .btn {
-  @apply text-white bg-[#be987e] rounded-md shadow-md p-3 mt-5
+  @apply text-white bg-[#894af3] rounded-md shadow-md p-3 mt-5
   hover:scale-[1] ease-in duration-100 cursor-pointer hover:bg-[#756150];
 }
 @tailwind utilities;
